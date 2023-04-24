@@ -1,2 +1,3 @@
 echo "kapil ahire"
-echo "kapil nimba ahire"
+echo "kapil ahire"
+echo "kapil ahire"
